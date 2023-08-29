@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verileri Filtreleme ve Siralama</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: rgb(190, 140, 39);
+            text-align: center;
+        }
+
+        div {
+            height: calc(100vh - (20px + 21.440px + 21.440px + 37px));
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        ul {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            gap: 20px;
+        }
+
+        ul li {
+            font-weight: bold;
+            padding: 10px 20px;
+            color: darkblue;
+            background-color: wheat;
+            border-radius: 4px;
+            transition: all .5s ease;
+            cursor: pointer;
+        }
+
+        ul li:hover {
+            color: wheat;
+            background-color: darkblue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Filtrelenmiş ve Sıralanmış Kitaplar:</h1>
+    <div>
+        <ul id="filteredValues"></ul>
+    </div>
+    <script src="./data-filtreleme-siralama.js"></script>
+</body>
+</html>
+

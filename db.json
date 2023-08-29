@@ -1,0 +1,99 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Jane Eyre",
+      "author": "Emanuel Crant"
+    },
+    {
+      "id": 2,
+      "title": "Suç ve Ceza",
+      "author": "Dostoyevski"
+    },
+    {
+      "id": 3,
+      "title": "Martin Eden",
+      "author": "Jack London"
+    },
+    {
+      "id": 4,
+      "title": "Deniz Kurdu",
+      "author": "Jack London"
+    },
+    {
+      "id": 5,
+      "title": "Beyaz Diş",
+      "author": "Jack London"
+    },
+    {
+      "id": 6,
+      "title": "Ekmeğimi Kazanırken",
+      "author": "Gorki"
+    },
+    {
+      "id": 7,
+      "title": "Körlük",
+      "author": "Jose Saramago"
+    },
+    {
+      "id": 8,
+      "title": "Yeraltından Notlar",
+      "author": "Dostoyevski"
+    },
+    {
+      "id": 9,
+      "title": "Son Ada",
+      "author": "Zülfü Livaneli"
+    },
+    {
+      "id": 10,
+      "title": "Kardeşimin Hikayesi",
+      "author": "Zülfü Livaneli"
+    },
+    {
+      "id": 11,
+      "title": "Dava",
+      "author": "Franz Kafka"
+    },
+    {
+      "id": 12,
+      "title": "Aşk ve Gurur",
+      "author": "Jane Austen"
+    },
+    {
+      "title": "Denizler Altında 20 bin Fersah",
+      "author": "Jules Verne",
+      "id": 13
+    },
+    {
+      "title": "QXyGeN & Roshan",
+      "author": "Mehmet Aydar",
+      "id": 14
+    },
+    {
+      "title": "Sefiller",
+      "author": "Victor Hugo",
+      "id": 15
+    },
+    {
+      "title": "Carmen",
+      "author": "Jack London",
+      "id": 16
+    },
+    {
+      "title": "Yakıcı Sır",
+      "author": "Stefan Zweig",
+      "id": 17
+    },
+    {
+      "title": "Savaş ve Barış",
+      "author": "Tolstoy",
+      "id": 18
+    },
+    {
+      "title": "Dorian Grayin Portresi",
+      "author": "Oscar Wilde",
+      "id": 19
+    }
+  ]
+}
